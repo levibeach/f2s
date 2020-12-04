@@ -1,4 +1,4 @@
->**WARNING:** This is definitely a work in progress. Proceed at your own risk. This was created to satify an immediate need I had to list the contents of some 600+ files in a spreadsheet, so it doesn't handle a lot of issues that may arrise outside of it's original intent.
+>**WARNING:** This is definitely a work in progress. Proceed at your own risk. This was created to satisfy an immediate need I had to list the contents of some 600+ files in a spreadsheet, so it doesn't handle a lot of issues that may arrise outside of it's original intent.
 
 # f2s
 Take a list of files and output their content to a spreadsheet file (CSV)
