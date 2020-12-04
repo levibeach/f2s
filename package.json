@@ -1,0 +1,16 @@
+{
+  "name": "f2s",
+  "version": "1.0.0",
+  "description": "Take a list of files and output their content to a CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "nodejs",
+    "utility"
+  ],
+  "author": "Levi Beach <hello@levibeach.com>",
+  "license": "ISC"
+}
