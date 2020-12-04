@@ -10,9 +10,16 @@ Take a list of files and output their content to a spreadsheet file (CSV)
 - npm
 
 ```bash
-# first clone the repo then navigate into the repo directory
+# Clone the repo
+git clone https://github.com/levibeach/f2s.git
+
+# Navigate into the repo folder
+cd f2s
+
+# Install globally on your machine
 npm install -g
-# navigate to the folder which holds the files you want to export
+
+# Navigate to the folder which holds the files you want to export
 f2s
 # watch it run!
 # enjoy you new output.csv
