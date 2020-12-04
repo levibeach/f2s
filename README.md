@@ -1,3 +1,4 @@
+>**WARNING:** This is definitely a work in progress. Proceed at your own risk.
 # f2s
 Take a list of files and output their content to a spreadsheet file (CSV)
 
