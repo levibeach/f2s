@@ -1,5 +1,5 @@
 {
-  "name": "f2s",
+  "name": "@levibeach/f2s",
   "version": "1.0.0",
   "description": "Take a list of files and output their content to a CSV file",
   "main": "index.js",
