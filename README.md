@@ -5,7 +5,8 @@ Take a list of files and output their content to a spreadsheet file (CSV)
 
 ## Getting Started
 ```bash
-npm install @levibeach/f2s -g
+# first clone the repo then navigate into the repo directory
+npm install -g
 # navigate to the folder which holds the files you want to export
 f2s
 # watch it run!
