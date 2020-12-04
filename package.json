@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "f2s": "./bin/app.js"
+  },
   "keywords": [
     "csv",
     "nodejs",
     "utility"
   ],
   "author": "Levi Beach <hello@levibeach.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "args-parser": "^1.1.0"
+  }
 }
