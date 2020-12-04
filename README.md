@@ -4,6 +4,11 @@
 Take a list of files and output their content to a spreadsheet file (CSV)
 
 ## Getting Started
+
+### Requirements
+- Node
+- npm
+
 ```bash
 # first clone the repo then navigate into the repo directory
 npm install -g
